@@ -8,16 +8,16 @@ with Ruby, Python, and a lot more programming languages.
 ## :keyboard: More repositories
 
 <a href="https://github.com/ollej/rusty-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave" />
 </a>
 <a href="https://github.com/ollej/spicyham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=spicyham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=spicyham&theme=synthwave" />
 </a>
 <a href="https://github.com/ollej/brewnit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=brewnit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=brewnit&theme=synthwave" />
 </a>
 <a href="https://github.com/ollej/playnit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=playnit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=playnit&theme=synthwave" />
 </a>
 
 ## :spider_web: My websites
