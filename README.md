@@ -3,7 +3,7 @@
 An experienced developer who mostly codes in Rust these days, but has worked
 with Ruby, Python, and a lot more programming languages.
 
-[![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
 
 ## :keyboard: More repositories
 
@@ -23,7 +23,7 @@ with Ruby, Python, and a lot more programming languages.
 ## :spider_web: My websites
 
  * [:motorcycle: Varangian Biker](https://www.varangianbiker.com)
- * [:beers: Brygglogg.se](https://www.brygglogg.se)
+ * [:beers: Brygglogg.se](https://brygglogg.se)
  * [:game_die: Playn.it](https://playn.it)
  * [:email: Spicyham](https://spicyham.net)
  * [:beer: Exalted Beer](https://exalted.beer)
