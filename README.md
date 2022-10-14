@@ -3,6 +3,8 @@
 An experienced developer who mostly codes in Rust these days, but has worked
 with Ruby, Python, and a lot more programming languages.
 
+Available for contracting opportunities.
+
 ![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
 
 ## :keyboard: More repositories
