@@ -7,8 +7,26 @@ Available for contracting opportunities.
 
 ![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
 
-## :keyboard: More repositories
+## :keyboard: Pinned repositories
 
+<a href="https://github.com/ollej/rusty-aquarium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave" />
+</a>
+<a href="https://github.com/ollej/rusty-slider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave" />
+</a>
+<a href="https://github.com/ollej/rusty-dungeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave" />
+</a>
+<a href="https://github.com/ollej/rusty-bunner-macroquad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rust-bunner-macroquad&theme=synthwave" />
+</a>
+<a href="https://github.com/ollej/quad-gif">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=quad-gif&theme=synthwave" />
+</a>
+<a href="https://github.com/ollej/rustgenpass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rustgenpass&theme=synthwave" />
+</a>
 <a href="https://github.com/ollej/rusty-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave" />
 </a>
