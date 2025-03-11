@@ -1,7 +1,8 @@
 # :crab: Olle W
 
 An experienced developer who mostly codes in Rust these days, but has worked
-with Ruby, Python, and a lot more programming languages.
+with Ruby, Python, Java, and a lot more programming languages. Author of the book
+[Game Development in Rust with Macroquad](https://agical.se/mq-en).
 
 Available for contracting opportunities.
 
@@ -10,35 +11,38 @@ Available for contracting opportunities.
 ## :video_game: Game repositories
 
 <a href="https://github.com/ollej/macroquad-introduktion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=macroquad-introduktion&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=macroquad-introduktion&theme=synthwave">
 </a>
+<a href="https://github.com/ollej/firefly-blutti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=firefly-blutti&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-dungeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-bunner-macroquad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rust-bunner-macroquad&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rust-bunner-macroquad&theme=synthwave">
 </a>
 
 ## :crab: Rust repositories
 
 <a href="https://github.com/ollej/rusty-slider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave">
 <a href="https://github.com/ollej/rusty-aquarium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/quad-gif">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=quad-gif&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=quad-gif&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rustgenpass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rustgenpass&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rustgenpass&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave">
 </a>
 
 ## :spider_web: My websites
 
+ * [:briefcase: Portfolio](https://olle.wreede.se) - A list of my recent projects
  * [:motorcycle: Varangian Biker](https://www.varangianbiker.com) - Runestone motorcycle safari
  * [:beers: Brygglogg.se](https://brygglogg.se) - Share homebrew recipes
  * [:game_die: Playn.it](https://playn.it) - Boardgame social network
@@ -46,5 +50,3 @@ Available for contracting opportunities.
  * [:beer: Exalted Beer](https://exalted.beer) - My homebrew recipes
  * [:cupcake: Får jag äta semla nu?](https://fårjagätasemla.nu) - Can you eat a semla pastry?
  * [:santa: Är det jul nu?](https://ärdetjul.nu) - Is it yuletide?
- * [:briefcase: Portfolio](https://olle.wreede.se) - My recent projects
-
