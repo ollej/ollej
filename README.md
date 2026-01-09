@@ -6,38 +6,38 @@ with Ruby, Python, Java, and a lot more programming languages. Author of the boo
 
 Available for contracting opportunities.
 
-![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
+![Olle's GitHub stats](https://github-readme-stats-nu-two-68.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
 
 ## :video_game: Game repositories
 
 <a href="https://github.com/ollej/macroquad-introduktion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=macroquad-introduktion&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=macroquad-introduktion&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/firefly-blutti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=firefly-blutti&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=firefly-blutti&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-dungeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-bunner-macroquad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rust-bunner-macroquad&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rust-bunner-macroquad&theme=synthwave">
 </a>
 
 ## :crab: Rust repositories
 
 <a href="https://github.com/ollej/rusty-slider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave">
 <a href="https://github.com/ollej/rusty-aquarium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/quad-gif">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=quad-gif&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=quad-gif&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rustgenpass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rustgenpass&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rustgenpass&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-code&theme=synthwave">
 </a>
 
 ## :spider_web: My websites
