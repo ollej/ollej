@@ -1,10 +1,9 @@
 # :crab: Olle W
 
-An experienced developer who mostly codes in Rust these days, but has worked
-with Ruby, Python, Java, and a lot more programming languages. Author of the book
-[Game Development in Rust with Macroquad](https://agical.se/mq-en).
+Author of the book [Game Development in Rust with Macroquad](https://agical.se/mq-en).
 
-Available for contracting opportunities.
+An experienced developer who mostly codes in Rust these days, but has worked
+with Ruby, Python, Java, and a lot more programming languages.
 
 ![Olle's GitHub stats](https://github-readme-stats-nu-two-68.vercel.app/api?username=ollej&show_icons=true&theme=synthwave)
 
@@ -15,6 +14,9 @@ Available for contracting opportunities.
 </a>
 <a href="https://github.com/ollej/firefly-blutti">
   <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=firefly-blutti&theme=synthwave">
+</a>
+<a href="https://github.com/ollej/firefly-lampy">
+  <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=firefly-lampy&theme=synthwave">
 </a>
 <a href="https://github.com/ollej/rusty-dungeon">
   <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-dungeon&theme=synthwave">
@@ -45,8 +47,8 @@ Available for contracting opportunities.
  * [:briefcase: Portfolio](https://olle.wreede.se) - A list of my recent projects
  * [:motorcycle: Varangian Biker](https://www.varangianbiker.com) - Runestone motorcycle safari
  * [:beers: Brygglogg.se](https://brygglogg.se) - Share homebrew recipes
- * [:game_die: Playn.it](https://playn.it) - Boardgame social network
- * [:email: Spicyham](https://spicyham.net) - Privacy enabled email aliases
- * [:beer: Exalted Beer](https://exalted.beer) - My homebrew recipes
+ * [:game_die: Playn.it](https://playn.wreede.se) - Boardgame social network
+ * [:email: Spicyham](https://spicyham.wreede.se) - Privacy enabled email aliases
+ * [:beer: Exalted Beer](https://exaltedbeer.wreede.se) - My homebrew recipes
  * [:cupcake: Får jag äta semla nu?](https://fårjagätasemla.nu) - Can you eat a semla pastry?
  * [:santa: Är det jul nu?](https://ärdetjul.nu) - Is it yuletide?
