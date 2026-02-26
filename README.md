@@ -29,6 +29,7 @@ with Ruby, Python, Java, and a lot more programming languages.
 
 <a href="https://github.com/ollej/rusty-slider">
   <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-slider&theme=synthwave">
+</a>
 <a href="https://github.com/ollej/rusty-aquarium">
   <img align="center" src="https://github-readme-stats-nu-two-68.vercel.app/api/pin/?username=ollej&repo=rusty-aquarium&theme=synthwave">
 </a>
@@ -47,7 +48,7 @@ with Ruby, Python, Java, and a lot more programming languages.
  * [:briefcase: Portfolio](https://olle.wreede.se) - A list of my recent projects
  * [:motorcycle: Varangian Biker](https://www.varangianbiker.com) - Runestone motorcycle safari
  * [:beers: Brygglogg.se](https://brygglogg.se) - Share homebrew recipes
- * [:game_die: Playn.it](https://playn.wreede.se) - Boardgame social network
+ * [:game_die: Playn.it](https://playnit.wreede.se) - Boardgame social network (temporarily offline)
  * [:email: Spicyham](https://spicyham.wreede.se) - Privacy enabled email aliases
  * [:beer: Exalted Beer](https://exaltedbeer.wreede.se) - My homebrew recipes
  * [:cupcake: Får jag äta semla nu?](https://fårjagätasemla.nu) - Can you eat a semla pastry?
